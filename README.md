@@ -9,17 +9,7 @@
 
 ### 👩‍💻 About Me
 - 🎯 Currently learning programming and AI/ML fundamentals
-- 📚 Exploring Python and Java basics
 - 🚀 Building my skills step by step for a tech career
-- ✨ Believer in consistency over perfection
-
----
-
-### 🛠️ Skills (Learning)
-- Python 🐍
-- Java ☕
-- Basics of Machine Learning 🤖
-- Git & GitHub 🌱
 
 ---
 
