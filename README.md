@@ -1,7 +1,7 @@
 ## Hi there 👋
  I'm Sreelakshmi KP
 
-BTech AIML Student | Data Analytics Intern | AI & ML Enthusiast  
+   BTech AIML Student | Data Analytics Intern | AI & ML Enthusiast  
 💡 Curious about Artificial Intelligence & Machine Learning  
 
 ---
