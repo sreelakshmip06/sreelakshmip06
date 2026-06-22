@@ -1,8 +1,7 @@
 ## Hi there 👋
  I'm Sreelakshmi KP
 
-🎓 BTech AI & ML Student  
-🌱 Beginner | Passionate Learner  
+BTech AIML Student | Data Analytics Intern | AI & ML Enthusiast  
 💡 Curious about Artificial Intelligence & Machine Learning  
 
 ---
@@ -19,6 +18,18 @@
 - Completed a Data Analytics Internship at Intilaq Technologies Pvt Ltd.
 - Gained practical exposure to data analysis and industry workflows.
 - Strengthened analytical thinking and problem-solving skills.
+
+  ---
+
+  ## 🛠️ Skills
+
+- Python
+- Data Analytics
+- Machine Learning
+- SQL (Learning)
+- Git & GitHub
+
+  ---
 
 ### 📌 Goals
 - ✔ Improve coding skills
