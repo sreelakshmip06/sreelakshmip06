@@ -13,6 +13,13 @@
 
 ---
 
+## 💼 Experience
+
+### Data Analytics Intern – Intilaq Technologies Pvt Ltd
+- Completed a Data Analytics Internship at Intilaq Technologies Pvt Ltd.
+- Gained practical exposure to data analysis and industry workflows.
+- Strengthened analytical thinking and problem-solving skills.
+
 ### 📌 Goals
 - ✔ Improve coding skills
 - ✔ Build beginner-friendly projects
